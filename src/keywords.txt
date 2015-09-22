@@ -1,0 +1,7 @@
+Board KEYWORD1
+sendByte KEYWORD2
+syncWait KEYWORD2
+getByte KEYWORD2
+sendBit KEYWORD2
+getBit KEYWORD2
+
